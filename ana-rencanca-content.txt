@@ -2,8 +2,8 @@ Rencana Konten Ana
 - Reverse Engineering
   * IDA Pro
   * Flare On
-- Angular
-- React
+  * Crack 
 - CTF
 - Laravel
 - Games
+- Python
