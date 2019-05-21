@@ -1,7 +1,8 @@
 Rencana Konten Ana
 - Reverse Engineering
   * IDA Pro
-  *  Flare On
+  * Flare On
 - CTF
+- Laravel
 - Interview
 - Games
