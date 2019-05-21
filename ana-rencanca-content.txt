@@ -5,6 +5,5 @@ Rencana Konten Ana
   * Crack 
 - CTF
 - Laravel
-- Interview
 - Games
 - Python
